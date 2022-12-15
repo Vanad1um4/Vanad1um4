@@ -6,9 +6,14 @@
 🎓 &nbsp;I'm currently honing my skills by developing personal projects.\
 🌱 &nbsp;I'm on track for learning more about backend web development.\
 💬 &nbsp;If I can be of assistance, please do not hesitate to contact me.\
-✉️ &nbsp;You can shoot me an email at vanad1um3@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://docs.google.com/document/d/1JbAR5UPmLR3Nh-ipammcruoXq5tqVKPDU4-6mW_UiWA/edit?usp=sharing) for more details about me. Currently I'm open for work and to relocation!
+💼 &nbsp;Please have a look at my [Résumé](https://docs.google.com/document/d/1JbAR5UPmLR3Nh-ipammcruoXq5tqVKPDU4-6mW_UiWA/edit?usp=sharing) for more details about me. Currently I'm open for work and to relocation!
 
+#### 🤝🏻 &nbsp;Connect with Me
+<!-- <p align="center"> -->
+<a href="https://t.me/vanad1um3"><img src="https://img.shields.io/badge/-Vanad1um3-D14836?style=flat&color=26A5E4&logo=Telegram&logoColor=FFFFFF"/></a> &nbsp;
+<a href="mailto:Vanad1um3@gmail.com"><img src="https://img.shields.io/badge/-Vanad1um3@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/vvladislav/"><img src="https://img.shields.io/badge/-Vlad-v?style=flat&logo=Linkedin&logoColor=white"/></a> &nbsp;
+<!-- <p> -->
 
 ##### 🦾 My specialty
 <img alt="Night Coding2" src="./assets/night-coding.gif" align="right"/>
