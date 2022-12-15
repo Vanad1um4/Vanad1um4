@@ -9,9 +9,10 @@
 ✉️ &nbsp;You can shoot me an email at vanad1um3@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://docs.google.com/document/d/1JbAR5UPmLR3Nh-ipammcruoXq5tqVKPDU4-6mW_UiWA/edit?usp=sharing) for more details about me. Currently I'm open for work and to relocation!
 
-<img alt="Night Coding2" src="./assets/night-coding.gif" align="right"/>
 
 #### 🦾 My specialty
+<img alt="Night Coding2" src="./assets/night-coding.gif" align="right"/>
+
 ![Python](https://img.shields.io/static/v1?style=flat&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=) &nbsp;
 ![Django](https://img.shields.io/static/v1?style=flat&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=) &nbsp;
 ![PostgreSQL](https://img.shields.io/static/v1?style=flat&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=) &nbsp;
