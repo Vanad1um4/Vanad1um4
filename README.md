@@ -11,4 +11,4 @@
 
 <img alt="Night Coding1" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<img alt="Night Coding2" src="../assets/night-coding.gif" align="right"/>
+<img alt="Night Coding2" src="./assets/night-coding.gif" align="right"/>
