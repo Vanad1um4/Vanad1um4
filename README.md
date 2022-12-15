@@ -11,21 +11,24 @@
 
 <img alt="Night Coding2" src="./assets/night-coding.gif" align="right"/>
 
-### 🛠 &nbsp;My Stack
-![Python](https://img.shields.io/static/v1?style=flat&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
-![Django](https://img.shields.io/static/v1?style=flat&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
-![PostgreSQL](https://img.shields.io/static/v1?style=flat&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
+#### 🦾 My specialty
+![Python](https://img.shields.io/static/v1?style=flat&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=) &nbsp;
+![Django](https://img.shields.io/static/v1?style=flat&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=) &nbsp;
+![PostgreSQL](https://img.shields.io/static/v1?style=flat&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=) &nbsp;
 
-![Selenium](https://img.shields.io/static/v1?style=flat&message=Selenium&color=43B02A&logo=Selenium&logoColor=FFFFFF&label=)
-![Keras](https://img.shields.io/static/v1?style=flat&message=Keras&color=D00000&logo=Keras&logoColor=FFFFFF&label=)
-![NumPy](https://img.shields.io/static/v1?style=flat&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=)
+#### 🔨 My additional skills
+![JavaScript](https://img.shields.io/static/v1?style=flat&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=) &nbsp;
+![Node.js](https://img.shields.io/static/v1?style=flat&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=) &nbsp;
+![Express](https://img.shields.io/static/v1?style=flat&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=) &nbsp;
+![SQLite](https://img.shields.io/static/v1?style=flat&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=) &nbsp;
+![Chart.js](https://img.shields.io/static/v1?style=flat&message=Chart.js&color=FF6384&logo=Chart.js&logoColor=FFFFFF&label=) &nbsp;
+![HTML5](https://img.shields.io/static/v1?style=flat&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=) &nbsp;
+![CSS3](https://img.shields.io/static/v1?style=flat&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=) &nbsp;
+![Selenium](https://img.shields.io/static/v1?style=flat&message=Selenium&color=43B02A&logo=Selenium&logoColor=FFFFFF&label=) &nbsp;
+![Keras](https://img.shields.io/static/v1?style=flat&message=Keras&color=D00000&logo=Keras&logoColor=FFFFFF&label=) &nbsp;
+![NumPy](https://img.shields.io/static/v1?style=flat&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=) &nbsp;
 
-![JavaScript](https://img.shields.io/static/v1?style=flat&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
-![Node.js](https://img.shields.io/static/v1?style=flat&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
-![Express](https://img.shields.io/static/v1?style=flat&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
-![SQLite](https://img.shields.io/static/v1?style=flat&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
-![Chart.js](https://img.shields.io/static/v1?style=flat&message=Chart.js&color=FF6384&logo=Chart.js&logoColor=FFFFFF&label=)
-
-![Linux](https://img.shields.io/static/v1?style=flat&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
-![Neovim](https://img.shields.io/static/v1?style=flat&message=Neovim&color=57A143&logo=Neovim&logoColor=FFFFFF&label=)
-![Git](https://img.shields.io/static/v1?style=flat&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+#### 🧰 My Tools
+![Linux](https://img.shields.io/static/v1?style=flat&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=) &nbsp;
+![Neovim](https://img.shields.io/static/v1?style=flat&message=Neovim&color=57A143&logo=Neovim&logoColor=FFFFFF&label=) &nbsp;
+![Git](https://img.shields.io/static/v1?style=flat&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=) &nbsp;
