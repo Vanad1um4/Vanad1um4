@@ -10,7 +10,7 @@
 📄 &nbsp;Please have a look at my [Résumé](https://docs.google.com/document/d/1JbAR5UPmLR3Nh-ipammcruoXq5tqVKPDU4-6mW_UiWA/edit?usp=sharing) for more details about me. Currently I'm open for work and to relocation!
 
 
-#### 🦾 My specialty
+##### 🦾 My specialty
 <img alt="Night Coding2" src="./assets/night-coding.gif" align="right"/>
 
 ![Python](https://img.shields.io/static/v1?style=flat&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=) &nbsp;
@@ -31,5 +31,13 @@
 
 #### 🧰 My Tools
 ![Linux](https://img.shields.io/static/v1?style=flat&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=) &nbsp;
-![Neovim](https://img.shields.io/static/v1?style=flat&message=Neovim&color=57A143&logo=Neovim&logoColor=FFFFFF&label=) &nbsp;
 ![Git](https://img.shields.io/static/v1?style=flat&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=) &nbsp;
+![Neovim](https://img.shields.io/static/v1?style=flat&message=Neovim&color=57A143&logo=Neovim&logoColor=FFFFFF&label=) &nbsp;
+![Visual Studio Code](https://img.shields.io/static/v1?style=flat&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=) &nbsp;
+
+
+#### 🗂️ Projects summary
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanad1um4&layout=compact&theme=prussian)
+<!-- ![Vanad1um4's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanad1um4&show_icons=true&theme=transparent) -->
+
+
