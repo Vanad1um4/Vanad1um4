@@ -6,7 +6,7 @@
 🎓 &nbsp;I'm currently honing my skills by developing personal projects.\
 🌱 &nbsp;I'm on track for learning more about backend web development.\
 💬 &nbsp;If I can be of assistance, please do not hesitate to contact me.\
-💼 &nbsp;Please have a look at my [Résumé](bit.ly/resume_voronov) for more details about me. Currently I'm open for work and to relocation!
+💼 &nbsp;Please have a look at my [Résumé](https://bit.ly/resume_voronov) for more details about me. Currently I'm open for work and to relocation!
 
 ### 🤝🏻 &nbsp;Connect with Me
 <!-- <p align="center"> -->
