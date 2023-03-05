@@ -11,7 +11,6 @@
 <!-- <p align="center"> -->
 <a href="https://t.me/vanad1um3"><img src="https://img.shields.io/badge/-Vanad1um3-D14836?style=flat&color=26A5E4&logo=Telegram&logoColor=FFFFFF"/></a> &nbsp;
 <a href="mailto:Vanad1um3@gmail.com"><img src="https://img.shields.io/badge/-Vanad1um3@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> &nbsp;
-<a href="https://www.linkedin.com/in/vvladislav/"><img src="https://img.shields.io/badge/-linkedin.com/in/vvladislav-v?style=flat&logo=Linkedin&logoColor=white"/></a> &nbsp;
 <!-- <p> -->
 
 ### 🦾 My specialty
