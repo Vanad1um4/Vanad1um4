@@ -11,7 +11,7 @@
 <table width="100%">
   <tr>
   
-  <td align="left">
+  <td width="60%">
 
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="https://t.me/vanad1um3"><img src="https://img.shields.io/badge/-Vanad1um3-D14836?style=flat&color=26A5E4&logo=Telegram&logoColor=FFFFFF"/></a> &nbsp;
@@ -31,7 +31,7 @@
 
   </td>
   
-  <td>
+  <td align="right">
     <img alt="Night Coding2" src="./assets/night-coding.gif" align="right"/>
   </td>
     
@@ -39,7 +39,7 @@
 
   <tr>
   
-  <td align="left">
+  <td>
 
 ### 🔨 My additional skills
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -63,7 +63,7 @@
 
   </td>
 
-  <td>
+  <td align="right">
 
 ### 🗂️ Projects summary
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanad1um4&layout=compact&theme=prussian)
