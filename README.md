@@ -8,10 +8,11 @@
 💬 &nbsp;I'm open to collaboraton and sharing of ideas. If you wish to connect with me, feel free to reach out.
 
 
-<table width="100%">
+<table width="100%" border="0">
+
   <tr>
   
-  <td width="60%">
+  <td>
 
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="https://t.me/vanad1um3"><img src="https://img.shields.io/badge/-Vanad1um3-D14836?style=flat&color=26A5E4&logo=Telegram&logoColor=FFFFFF"/></a> &nbsp;
@@ -31,8 +32,8 @@
 
   </td>
   
-  <td align="right">
-    <img alt="Night Coding2" src="./assets/night-coding.gif" align="right"/>
+  <td width="325pix">
+    <img alt="Night Coding2" src="./assets/night-coding.gif"/>
   </td>
     
   </tr>
@@ -63,7 +64,7 @@
 
   </td>
 
-  <td align="right">
+  <td>
 
 ### 🗂️ Projects summary
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanad1um4&layout=compact&theme=prussian)
