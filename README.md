@@ -8,13 +8,16 @@
 💬 &nbsp;I'm open to collaboraton and sharing of ideas. If you wish to connect with me, feel free to reach out.
 
 
+<table width="100%">
+  <tr>
+  
+  <td align="left">
+
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="https://t.me/vanad1um3"><img src="https://img.shields.io/badge/-Vanad1um3-D14836?style=flat&color=26A5E4&logo=Telegram&logoColor=FFFFFF"/></a> &nbsp;
 <a href="mailto:Vanad1um3@gmail.com"><img src="https://img.shields.io/badge/-Vanad1um3@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> &nbsp;
 
 ### 🦾 My specialty
-<img alt="Night Coding2" src="./assets/night-coding.gif" align="right"/>
-
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
@@ -24,6 +27,19 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+
+  </td>
+  
+  <td>
+    <img alt="Night Coding2" src="./assets/night-coding.gif" align="right"/>
+  </td>
+    
+  </tr>
+
+  <tr>
+  
+  <td align="left">
 
 ### 🔨 My additional skills
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -45,9 +61,19 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
+  </td>
+
+  <td>
 
 ### 🗂️ Projects summary
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanad1um4&layout=compact&theme=prussian)
-<!-- ![Vanad1um4's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanad1um4&show_icons=true&theme=transparent) -->
+
+  </td>
+    
+  </tr>
+</table>
+
+
+
 
 
