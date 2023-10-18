@@ -30,7 +30,7 @@ Back: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&l
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
   </td>
   
-  <td width="325pix">
+  <td width="310pix">
     <img alt="Night Coding2" src="./assets/night-coding.gif"/>
   </td>
     
