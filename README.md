@@ -7,6 +7,9 @@
 🌱 &nbsp;I’m currently working on some personal projects that showcase my abilities and creativity.\
 💬 &nbsp;I'm open to collaboraton and sharing of ideas. If you wish to connect with me, feel free to reach out.
 
+### 🤝🏻 &nbsp;Connect with Me
+<a href="https://t.me/vanad1um3"><img src="https://img.shields.io/badge/-Vanad1um3-D14836?style=flat&color=26A5E4&logo=Telegram&logoColor=FFFFFF"/></a> &nbsp;
+<a href="mailto:Vanad1um3@gmail.com"><img src="https://img.shields.io/badge/-Vanad1um3@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> &nbsp;
 
 <table width="100%" border="0">
 
@@ -14,25 +17,24 @@
   
   <td>
 
-### 🤝🏻 &nbsp;Connect with Me
-<a href="https://t.me/vanad1um3"><img src="https://img.shields.io/badge/-Vanad1um3-D14836?style=flat&color=26A5E4&logo=Telegram&logoColor=FFFFFF"/></a> &nbsp;
-<a href="mailto:Vanad1um3@gmail.com"><img src="https://img.shields.io/badge/-Vanad1um3@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> &nbsp;
-
-### 🦾 My specialty
-Front: ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+#####  🇫 🇷 🇴 🇳 🇹 🇪 🇳 🇩 🖥️
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-Back: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+##### 🇧 🇦 🇨 🇰 🇪 🇳 🇩 🗄️
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+  
   </td>
   
-  <td width="310pix">
+  <td width="325pix">
 
-### 🗂️ Projects summary
+##### 🇸 🇹 🇦 🇹 🇸 📊
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanad1um4&layout=compact&theme=prussian)
   </td>
     
@@ -42,7 +44,7 @@ Back: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&l
   
   <td>
 
-### 🔨 My additional skills
+##### 🇪 🇽 🇹 🇷 🇦 &nbsp;&nbsp;&nbsp;&nbsp; 🇸 🇰 🇮 🇱 🇱 🇸 💪
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -55,7 +57,7 @@ Back: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&l
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 
-### 🧰 My Tools
+##### 🇹 🇴 🇴 🇱 🇸 🧰 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
