@@ -31,7 +31,9 @@ Back: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&l
   </td>
   
   <td width="310pix">
-    <img alt="Night Coding2" src="./assets/night-coding.gif"/>
+
+### 🗂️ Projects summary
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanad1um4&layout=compact&theme=prussian)
   </td>
     
   </tr>
@@ -62,9 +64,7 @@ Back: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&l
   </td>
 
   <td>
-
-### 🗂️ Projects summary
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanad1um4&layout=compact&theme=prussian)
+    <img alt="Night Coding2" src="./assets/night-coding.gif"/>
   </td>
     
   </tr>
