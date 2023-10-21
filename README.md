@@ -21,6 +21,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ##### 🇧 🇦 🇨 🇰 🇪 🇳 🇩 🗄️
@@ -76,7 +77,7 @@
 
 <div align="right">
   
-  [badges src](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+  badges from [here](https://github.com/Ileriayo/markdown-badges) and [here](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 </div>
 
