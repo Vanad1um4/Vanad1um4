@@ -74,6 +74,10 @@
 </table>
 
 
+<div align="right">
+  
+  [badges src](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
+</div>
 
 
