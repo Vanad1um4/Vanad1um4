@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I’m a passionate full-stack software engineer who enjoys creating useful and meaningful programs. I have experience in developing web applications using Python and TypeScript.\
+💡 &nbsp;I’m a passionate full-stack dev who enjoys creating useful and meaningful programs. I have experience in developing web applications using Python and TypeScript.\
 🎓 &nbsp;I’m always eager to learn new technologies and improve my coding skills. I’m also interested in exploring other domains of software development.\
 🌱 &nbsp;I’m currently working on some personal projects that showcase my abilities and creativity.\
 💬 &nbsp;I'm open to collaboraton and sharing of ideas. If you wish to connect with me, feel free to reach out.
