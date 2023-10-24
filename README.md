@@ -17,14 +17,14 @@
   
   <td>
 
-#####  🇫 🇷 🇴 🇳 🇹 🇪 🇳 🇩 🖥️
+#####  🇫 🇷 🇴 🇳 🇹 🇪 🇳 🇩  &nbsp; 🖥️
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-##### 🇧 🇦 🇨 🇰 🇪 🇳 🇩 🗄️
+##### 🇧 🇦 🇨 🇰 🇪 🇳 🇩 &nbsp; 🗄️
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -36,7 +36,7 @@
   
   <td width="325pix">
 
-##### 🇸 🇹 🇦 🇹 🇸 📊
+##### 🇸 🇹 🇦 🇹 🇸 &nbsp; 📊
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanad1um4&layout=compact&theme=prussian)
   </td>
     
@@ -46,7 +46,7 @@
   
   <td>
 
-##### 🇪 🇽 🇹 🇷 🇦 &nbsp;&nbsp;&nbsp;&nbsp; 🇸 🇰 🇮 🇱 🇱 🇸 💪
+##### 🇪 🇽 🇹 🇷 🇦 &nbsp;&nbsp;&nbsp;&nbsp; 🇸 🇰 🇮 🇱 🇱 🇸 &nbsp; 💪
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -58,7 +58,7 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 
-##### 🇹 🇴 🇴 🇱 🇸 🧰 
+##### 🇹 🇴 🇴 🇱 🇸 &nbsp; 🧰 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
