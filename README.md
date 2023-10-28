@@ -1,16 +1,5 @@
 <img alt="Hand Wave" src="./assets/hand-wave.gif" width='40' align="left"/><h2>Hey there! I'm Vlad</h2>
 
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I’m a passionate full-stack dev who enjoys creating useful and meaningful programs. I have experience in developing web applications using Python and TypeScript.\
-🎓 &nbsp;I’m always eager to learn new technologies and improve my coding skills. I’m also interested in exploring other domains of software development.\
-🌱 &nbsp;I’m currently working on some personal projects that showcase my abilities and creativity.\
-💬 &nbsp;I'm open to collaboraton and sharing of ideas. If you wish to connect with me, feel free to reach out.
-
-### 🤝🏻 &nbsp;Connect with Me
-<a href="https://t.me/vanad1um3"><img src="https://img.shields.io/badge/-Vanad1um3-D14836?style=flat&color=26A5E4&logo=Telegram&logoColor=FFFFFF"/></a> &nbsp;
-<a href="mailto:Vanad1um3@gmail.com"><img src="https://img.shields.io/badge/-Vanad1um3@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> &nbsp;
-
 <table width="100%" border="0">
 
   <tr>
