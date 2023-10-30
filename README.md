@@ -1,5 +1,8 @@
 <img alt="Hand Wave" src="./assets/hand-wave.gif" width='40' align="left"/><h2>Hey there! I'm Vlad</h2>
 
+<h4>✅&nbsp; Full-stack developer, on a personal quest of building a web of possibilities. 🕸 One line at a time. 📝 </h4>
+<h4>✅&nbsp; Balancing the art of user interface design with the science of the server-side symphony. 🎨🎻 </h4>
+
 <table width="100%" border="0">
 
   <tr>
