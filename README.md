@@ -1,8 +1,11 @@
 <img alt="Hand Wave" src="./assets/hand-wave.gif" width='40' align="left"/><h3>Hey there! I'm Vlad:</h3>
 
+
 🔹 Full-stack dev, on a personal quest of building a web of possibilities. 🕸
 
 🔹 Balancing the art of user interface design with the science of the server-side symphony. 🎨🎻 
+
+🔸 12 years of experience in JavaScript! "1" in VueJS + 2 in Angular. 🧙‍♂️🧮
 
 <table width="100%" border="0">
 
