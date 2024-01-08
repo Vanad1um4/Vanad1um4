@@ -5,7 +5,7 @@
 
 🔹 Balancing the art of user interface design with the science of the server-side symphony. 🎨🎻 
 
-🔸 '12' years of experience in JavaScript! "1" in VueJS + 2 in Angular. 🧙‍♂️🧮
+🔸 '12' years of experience in JavaScript! '1' in VueJS + 2 in Angular. 🧙‍♂️🧮
 
 <table width="100%" border="0">
 
